@@ -1,0 +1,11 @@
+Groundtruth Memorability Score Data for: Jiaxin Lu, Mai Xu, and Zulin Wang. Predicting the Memorability of Natural-scene Images. VCIP2016.
+
+©2016 IRC-MaiXu
+
+********data*******
+
+actural_hrs.mat: the memorability scores corresponding to each image in NSIM dataset.
+image_train_indices.mat: 25 groups of training image indices.
+image_test_indices.mat: 25 groups of test image indices corresponding to training image indices.
+train_subject_hrs.mat: 25 groups memorability scores of training images.
+test_subject_hrs.mat: 25 groups memorability scores of test images.
