@@ -9,3 +9,5 @@ image_train_indices.mat: 25 groups of training image indices.
 image_test_indices.mat: 25 groups of test image indices corresponding to training image indices.
 train_subject_hrs.mat: 25 groups memorability scores of training images.
 test_subject_hrs.mat: 25 groups memorability scores of test images.
+subject_hrs1.mat: scores calculated by one group of participants
+subject_hrs2.mat: scores calculated by another group of participants
