@@ -12,3 +12,14 @@ Recent work has shown that image memorability, in general, can be reliably predi
 
 NSIM dataset includes 258 natura-scene images, which refer to non-object outdoor images. All images are voted by three participants and these images are all selected from the dataset provided by Isola et al..(Isola et al. (2011)) Moreover, hrs.mat includes the groundtruth memorability score corresponding to each image.
 
+Please cite the following [IEEE Visual Communications and Image Processing Paper](https://github.com/Blossomsblue/Memorability/blob/master/Predicting%20the%20Memorability%20of%20Natural-scene%20Images.pdf) if you use the data.
+
+[Bibtex]
+@inproceedings{lu2016predicting,
+  title={Predicting the memorability of natural-scene images},
+  author={Lu, Jiaxin and Xu, Mai and Wang, Zulin},
+  booktitle={Visual Communications and Image Processing (VCIP), 2016},
+  pages={1--4},
+  year={2016},
+  organization={IEEE}
+}
